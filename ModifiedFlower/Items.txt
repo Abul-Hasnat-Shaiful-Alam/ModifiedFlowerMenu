@@ -1,0 +1,38 @@
+N-BL-C to F
+N-CL-F to K
+N-PL-K to C
+N-BR-F to C
+N-CR-K to F
+N-PR-C to K
+S-BL-Kms to Miles
+S-CL-Meters to Feet
+S-PL-Cms to Inches
+S-BR-Miles to Kms
+S-CR-Feet to Meters
+S-PR-Inches to Cms
+E-BL-Hrs to Mins
+E-CL-Mins to Secs
+E-PL-Secs to Hrs
+E-BR-Mins to Hrs
+E-CR-Secs to Mins
+E-PR-Hrs to Secs
+W-BL-Kgs to Pounds
+W-PL-Gms to Ounces
+W-BR-Pounds to Kgs
+W-PR-Ounces to Grams
+NE-BL-KiloPascals to Bars
+NE-CL-Atm to Bars
+NE-PL-KiloPascals to Atm
+NE-BR-Bars to KiloPascals
+NE-CR-Bars to Atm
+NE-PR-Atm to KiloPascals
+NW-BL-Deg to Rad
+NW-BR-Rad to Deg
+SE-BL-Sq. Yards to Sq. Meter
+SE-CL-Sq. Meter to Sq. Feet
+SE-PL-Sq. Feet to Sq. Yards
+SE-BR-Sq. Meter to Sq. Yards
+SE-CR-Sq. Feet to Sq. Meter
+SE-PR-Sq. Yards to Sq. Feet
+SW-BL-Joule to Cal
+SW-BR-Cal to Joule
