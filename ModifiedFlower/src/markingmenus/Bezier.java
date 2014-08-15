@@ -39,19 +39,7 @@ public class Bezier{
                 buildCurve(bentPoints);
                 break;
         }
-        /*Bent[0] = new Point(161,182);
-        Bent[1] = new Point(161,88);
-        Bent[2] = new Point(161,57);
-        Bent[3] = new Point(189,61);
-        Cusped[0] = new Point(161,196);
-        Cusped[1] = new Point(161,96);
-        Cusped[2] = new Point(161,40);
-        Cusped[3] = new Point(199,112);
-        Pigtail[0] = new Point(161,196);
-        Pigtail[1] = new Point(161,2);
-        Pigtail[2] = new Point(222,118);
-        Pigtail[3] = new Point(165,129);
-      */  
+          
     }
     public Point[] getPointInt(double angle,boolean reflection)
     {
